@@ -1,6 +1,11 @@
 nav {
     font: 13px Arial, "sans-serif";
 }
+body {
+  display: block;
+  padding-top: 1px;
+  margin-top: -1px;
+}
 .navleft1 {
     float: left;
     padding: 5px;
@@ -61,21 +66,26 @@ nav {
     height: 35px;
     width: 35px;
   }
-.google {
-  width: 100%;
+.googlesuite {
+    margin-top: 10%;
+}
+  .google {
+    float: none;
+    margin: auto;
+    max-width: 300px;
   }
 .googleimg {
     display: block;
-    margin-left: auto;
-    margin-right: auto;
-    text-align: center; 
-  }
+    text-align: center;
+    margin: auto;
+}
 .searchbar {
     display: block;
     position: relative;
     margin: auto;
     text-align: center;
     top: -30px;
+    max-width: 300px;
 }
 #searchbar {
     color: black;
@@ -91,6 +101,7 @@ nav {
   justify-content: center;
   width: 35%;
   margin: auto;
+  max-width: 300px;
 }
 .googlebutton1 {
   margin: auto;
