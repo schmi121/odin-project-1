@@ -85,12 +85,15 @@ nav {
     font: 13px Arial, "sans-serif";
     width: 300px !important;
 }
-
+.buttons {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 35%;
+  margin: auto;
+}
 .googlebutton1 {
-  position: relative;
-    display: block;
-  float: left;
-  margin-left: 32vw;
+  margin: auto;
 }
 .button1 {
     height: 35px;
@@ -102,10 +105,7 @@ nav {
     background-color: grey;
 }
 .googlebutton2 {
-  position: relative;
-  display: block;
-  float: right;
-  margin-right: 32vw;
+  margin: auto;
 }
 .button2 {
     height: 35px;
