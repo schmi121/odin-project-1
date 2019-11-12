@@ -1,0 +1,118 @@
+nav {
+    font: 13px Arial, "sans-serif";
+}
+.navleft1 {
+    float: left;
+    padding: 5px;
+    margin-left: 10px;
+    margin-top: 10px;
+  }
+.navleft1 a {
+  text-decoration: none;
+  color: rgba(0,0,0,0.87);
+}  
+.navleft2 {
+    float: left;
+    padding: 5px;
+    margin-top: 10px;
+  }
+.navleft2 a {
+    text-decoration: none;
+    color: rgba(0,0,0,0.87);
+  }  
+.navright1 {
+  float: right;
+  padding: 5px;
+  margin-top: 10px;
+  }
+.navright1 a {
+    text-decoration: none;
+    color: rgba(0,0,0,0.87);
+  }  
+.navright2 {
+    float: right;
+    padding: 5px;
+    margin-top: 10px;
+  }
+.navright2 a {
+    text-decoration: none;
+    color: rgba(0,0,0,0.87);
+  }  
+.navright3 {
+    float: right;
+    padding: 5px;
+    margin-top: 10px;
+  }
+.navright3 a {
+    text-decoration: none;
+    color: rgba(0,0,0,0.87);
+  }  
+  .navright4 {
+    float: right;
+    margin-top: 5px;
+    margin-left: 5px;
+  }
+.navright1 a {
+    text-decoration: none;
+    color: rgba(0,0,0,0.87);
+  }  
+.profimg {
+    border-radius: 50%;
+    height: 35px;
+    width: 35px;
+  }
+.google {
+  width: 100%;
+  }
+.googleimg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center; 
+  }
+.searchbar {
+    display: block;
+    position: relative;
+    margin: auto;
+    text-align: center;
+    top: -30px;
+}
+#searchbar {
+    color: black
+    opacity: .75;
+    border: 1px solid gainsboro;
+    border-radius: 30px;
+    font: 13px Arial, "sans-serif" 
+    width: 300px !important;
+}
+
+.googlebutton1 {
+  position: relative;
+    display: block;
+  float: left;
+  margin-left: 125px;
+}
+.button1 {
+    height: 35px;
+    width: 142px;
+    border-radius: 12px;
+}
+.button1:hover {
+    cursor: pointer;
+    background-color: grey;
+}
+.googlebutton2 {
+  position: relative;
+  display: block;
+  float: right;
+  margin-right: 125px;
+}
+.button2 {
+    height: 35px;
+    width: 142px;
+    border-radius: 12px;
+}
+.button2:hover {
+    cursor: pointer;
+    background-color: grey;
+}
