@@ -78,11 +78,11 @@ nav {
     top: -30px;
 }
 #searchbar {
-    color: black
+    color: black;
     opacity: .75;
     border: 1px solid gainsboro;
     border-radius: 30px;
-    font: 13px Arial, "sans-serif" 
+    font: 13px Arial, "sans-serif";
     width: 300px !important;
 }
 
